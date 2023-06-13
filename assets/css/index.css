@@ -74,7 +74,7 @@ top: 0;
 }
 
 .active, .dot:hover {
-background-color: #2f91d0;
+background-color: #047749;
 }
 
 /* Fading animation */
@@ -296,7 +296,7 @@ font-size: 0.8rem;
 text-transform: uppercase;
 font-weight: 100;
 text-align: center;
-color: #2f91d0;
+color: #047749;
 }
 
 #sticky_footer{
@@ -347,7 +347,7 @@ background-color: #086e6d;
 margin-left: 8rem;
 margin-top: -3.5rem;
 text-align: center;
-border-right: solid #2f91d0 0.05rem;
+border-right: solid #047749 0.05rem;
 }
 .sticky_footer_contain_dat_lich_hen_icon{
 width: 1.5rem;
@@ -403,7 +403,7 @@ font-size: 0.7rem;
 font-weight: 700;
 }
 .current_catalog{
-color: #1c6fa5;
+color: #047749;
 font-size: 0.7rem;
 font-weight: 700;
 }
@@ -428,7 +428,7 @@ margin-left: 7rem;
 height: 4rem;
 }
 .catalog_item_title{
-color: #2f91d0;
+color: #047749;
 margin-top: -4rem;
 font-size: 0.6rem;
 }
@@ -480,13 +480,13 @@ text-decoration: none;
 background: #d6d6d6;
 }
 .pagination>li.active {
-background-color: #2f91d0;
+background-color: #047749;
 }
 .pagination>li.active>a {
 color: #fff;
 }
 .pagination>li>a {
-color: #1c6fa5;
+color: #047749;
 }
 
 /*Post content*/
@@ -530,7 +530,7 @@ width: 5.275rem;
 
 }
 .button_1_contain, .post_content_button_1 {
-background: linear-gradient(70deg,#1c9fd4,#4bacd3,#1c6fa5);
+background: linear-gradient(70deg,#1c9fd4,#4bacd3,#047749);
 border-radius: 0.5rem;
 }
 
